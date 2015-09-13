@@ -10,6 +10,10 @@ style: |
         text-align:center;
         font-size:70px;
         }
+
+    #Cover img {
+        width: 100%
+        }
 ---
 
 # История создания БЭМ {#Cover}
