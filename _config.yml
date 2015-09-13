@@ -10,12 +10,11 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
-    # url:  http://example.com/
+    name: Vit Karpov
+    url:  http://vitkarpov.com/
     company:
-        name: Famous Inc.
-        # url:  http://example.com/
+        name: Yandex
 
-fork_url: https://github.com/shower/shower
+fork_url: https://github.com/vitkarpov/jekyller
 progress: true
 line_numbers: true
