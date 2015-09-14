@@ -152,3 +152,9 @@ style: |
 - Организация файловой системы
 - Сборка БЭМ-проекта
 - Какие бывают типичные проблемы, как БЭМ помогает их решать
+
+## Материлы для этого доклада
+
+- [https://ru.bem.info/method/history/](https://ru.bem.info/method/history/)
+- [https://ru.bem.info/forum/-45/](https://ru.bem.info/forum/-45/)
+- [https://ru.bem.info/forum/-46/](https://ru.bem.info/forum/-46/)
