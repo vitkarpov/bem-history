@@ -20,7 +20,7 @@ style: |
 
 ![](pictures/cover.png)
 
-## [vitkarpov.com](http://vitkarpov.com)
+## **[vitkarpov.com](http://vitkarpov.com)**
 
 ## Верстка в Яндексе до 2006 года
 
