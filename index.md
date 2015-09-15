@@ -20,6 +20,8 @@ style: |
 
 ![](pictures/cover.png)
 
+## [vitkarpov.com](http://vitkarpov.com)
+
 ## Верстка в Яндексе до 2006 года
 
     index.html
@@ -97,6 +99,14 @@ style: |
 
 ![](pictures/buttons.png)
 
+## Стабилизация нотации
+
+Блок `b-dropdown`
+
+Элемент `b-dropdown__select`
+
+Модификатор `b-dropdown_theme_green`
+
 ## Общепортальный фреймворк: Лего 2.0
 
 Смена парадигмы — **блоки первичны, технологии вторичны**
@@ -126,14 +136,6 @@ style: |
     include("../../common/block/i-locale/i-locale.js");
 
     <xsl:import href="../../common/block/i-common/i-common.xsl"/>
-
-## Стабилизация нотации
-
-Блок `b-dropdown`
-
-Элемент `b-dropdown__select`
-
-Модификатор `b-dropdown_theme_green`
 
 
 ## БЭМ в наши дни
